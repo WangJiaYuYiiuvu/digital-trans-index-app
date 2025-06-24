@@ -4,7 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from io import BytesIO
-import os
 
 # 设置中文字体支持
 plt.rcParams["font.family"] = ["SimHei", "WenQuanYi Micro Hei", "Heiti TC"]
