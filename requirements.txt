@@ -1,0 +1,3 @@
+streamlit
+matplotlib
+# 其他依赖（如 pandas、numpy 等，按实际需求添加）
