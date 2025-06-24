@@ -1,3 +1,5 @@
+import os
+st.write(f"当前工作目录：{os.getcwd()}")  
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
