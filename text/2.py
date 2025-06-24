@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # 实际Excel文件路径
-DEFAULT_FILE_PATH = r"C:\Users\Lenovo\Desktop\text\数字化转型词频统计结果（总）.xlsx"  
+DEFAULT_FILE_PATH = "数字化转型词频统计结果（总）.xlsx"   
 
 # 行业映射配置
 INDUSTRY_MAPPING = {
